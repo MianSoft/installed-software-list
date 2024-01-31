@@ -1,0 +1,7 @@
+{
+    // Markdown相关
+    "editor.wordWrap": "off",
+    "markdown.copyFiles.destination": {
+        "*": "${documentWorkspaceFolder}/public/${fileName}"
+    },
+}
